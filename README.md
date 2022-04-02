@@ -1,1 +1,1 @@
-# Tech-Interview-Study
+# Computer Science Study
